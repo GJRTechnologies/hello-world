@@ -2,8 +2,8 @@
 
   <div class="container">
     <h1>Thanks for visting our website</h1>
-    <h3>Read the following carefully and fill the details</h3>
-    <h2>New user Register for DevOps Learning</h2>
+    <h2>Read the following carefully and fill the details</h2>
+    <h3>New user Register for DevOps Learning</h3>
     <p>Please fill in this form to create an account</p>
     <hr>
      
